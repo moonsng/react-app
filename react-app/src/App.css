@@ -6,6 +6,12 @@ body{
   font-family: 'nanumsquare';
 }
 
+.modal{
+  margin-top: 20px;
+  padding: 20px;
+  background: #eee;
+  text-align: left;
+}
 .black-nav{
   background: black;
   width: 100%;
